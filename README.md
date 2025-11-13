@@ -11,19 +11,38 @@
 
 - 🟩🟩🟩🟩🟩 German
 - 🟩🟩🟩🟩🟥 English
-- 🟩🟩🟩🟥🟥 Kanban
+
 - 🟩🟥🟥🟥🟥 HTML
 - 🟩🟥🟥🟥🟥 CSS
 - 🟩🟩🟩🟥🟥 JavaScript
-- 🟩🟩🟥🟥🟥 JSON
-- 🟩🟩🟩🟩🟥 jq
-- 🟩🟩🟩🟩🟩 C
-- 🟩🟩🟩🟥🟥 C#
-- 🟩🟩🟩🟩🟥 Godot
-- 🟩🟩🟩🟩🟥 Python
-- 🟩🟩🟥🟥🟥 Go
+- 🟩🟩🟩🟥🟥 JSON
+- 🟩🟩🟩🟩🟥 Python (API's)
+  
+- 🟩🟩🟩🟥🟥 Kanban
+- 🟩🟩🟩🟥🟥 Git (GitHub, GitLab)
+- 🟩🟩🟩🟥🟥 UML-Diagramme
+- 🟩🟩🟩🟥🟥 ERM/ERD (Entity-Relationship-Model/-Diagram)
+- 🟩🟩🟩🟥🟥 Dokumentationen verfassen
+  
+- 🟩🟩🟩🟩🟥 MYSQL/MariaDB
+- 🟩🟩🟩🟥🟥 SQLite
+- 🟩🟩🟥🟥🟥 MongoDB
+  
 - 🟩🟩🟩🟩🟩 PHP
-- 🟩🟩🟩🟩🟥 SQL
+- 🟩🟩🟩🟩🟩 C
+- 🟩🟩🟩🟩🟩 C# (.NET)
+- 🟩🟥🟥🟥🟥 Go
+- 🟩🟩🟩🟩🟥 jq
+- 🟩🟩🟩🟥🟥 Godot
+- 🟩🟩🟩🟥🟥 Unity
+
+- 🟩🟩🟩🟥🟥 Visual Studio
+- 🟩🟩🟩🟩🟥 Visual Studio Code
+
+- 🟩🟩🟩🟥🟥 Ubuntu
+- 🟩🟩🟩🟩🟥 Windows 11
+- 🟩🟩🟩🟩🟥 Windows 10
+- 🟩🟩🟩🟩🟥 Windows 7
 
 ## The company I work for and the projects I am involved in.
 
